@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\bin\Debug\netcoreapp3.1\Task04_Walking.exe
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\bin\Debug\netcoreapp3.1\Task04_Walking.deps.json
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\bin\Debug\netcoreapp3.1\Task04_Walking.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\bin\Debug\netcoreapp3.1\Task04_Walking.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\bin\Debug\netcoreapp3.1\Task04_Walking.dll
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\bin\Debug\netcoreapp3.1\Task04_Walking.pdb
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\obj\Debug\netcoreapp3.1\Task04_Walking.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\obj\Debug\netcoreapp3.1\Task04_Walking.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\obj\Debug\netcoreapp3.1\Task04_Walking.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\obj\Debug\netcoreapp3.1\Task04_Walking.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\obj\Debug\netcoreapp3.1\Task04_Walking.dll
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\obj\Debug\netcoreapp3.1\Task04_Walking.pdb
+C:\Users\Kiril\source\repos\Exersice05\Task04_Walking\obj\Debug\netcoreapp3.1\Task04_Walking.genruntimeconfig.cache
